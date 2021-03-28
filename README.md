@@ -1,4 +1,4 @@
-# tiktok
+#social app with camera
 
 A new Flutter project.
 
